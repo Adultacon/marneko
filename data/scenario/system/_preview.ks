@@ -1,0 +1,7 @@
+[preload  storage="./data/fgimage/default/marneko_wakuaku2.png"  ]
+[preload  storage="./data/fgimage/default/marneko_wakuaku3.png"  ]
+[preload  storage="./data/fgimage/default/marneko_wakuaku4.png"  ]
+[preload  storage="./data/fgimage/default/marneko_wakuaku6.png"  ]
+[preload  storage="./data/fgimage/default/marneko_waku7.png"  ]
+[preload  storage="./data/fgimage/default/marneko_wakuaku7.png"  ]
+[return] 
